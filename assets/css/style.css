@@ -499,8 +499,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .navbar-brand.logo img {
-    max-height: 20px;
-    top: -3px;
+    max-height: 60px;
+    top: -20px;
     position: relative;
 }
 
@@ -2138,6 +2138,11 @@ footer.white-wrapper .social-links li a {
     #contact-tabs .icon-tabs li a {
         text-align: center;
     }
+    .navbar-brand.logo img {
+        max-height: 40px;
+        top: -10px;
+        position: relative;
+    }
 }
 
 @media(max-width:460px) {
@@ -2152,6 +2157,11 @@ footer.white-wrapper .social-links li a {
     .portfolio-item,
     .masonry-portfolio-item {
         width: 100%;
+    }
+    .navbar-brand.logo img {
+        max-height: 40px;
+        top: -10px;
+        position: relative;
     }
 }
 
