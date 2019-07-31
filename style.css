@@ -34,3 +34,7 @@ body::-webkit-scrollbar-thumb {
     padding-left: 5%;
     width: 70%;
 }
+
+.videoNoLetras {
+    display: none!important;
+}

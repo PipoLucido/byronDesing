@@ -2141,6 +2141,9 @@ footer.white-wrapper .social-links li a {
 }
 
 @media(max-width:460px) {
+    .videoNoLetras {
+        display: block!important;
+    }
     .contenidoServicios {
         display: none;
     }
