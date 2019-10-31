@@ -38,3 +38,7 @@ body::-webkit-scrollbar-thumb {
 .videoNoLetras {
     display: none!important;
 }
+
+#linkpointer{
+cursor:pointer;
+}
