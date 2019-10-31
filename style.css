@@ -39,6 +39,11 @@ body::-webkit-scrollbar-thumb {
     display: none!important;
 }
 
-#linkpointer{
-cursor:pointer;
+#linkpointer {
+    cursor: pointer;
+}
+
+.imgSer {
+    width: 600px;
+    margin: auto 0;
 }
